@@ -5,7 +5,7 @@ Required Libraries to be installed before Running.
 * Selenium
 * tqdm
 
-Other Requirments
+Other Requirements
 * Download the Suitable browser Driver and add it to /usr/local/bin(Linux/Mac)
 
 If using Firefox or some other Browsers driver change the driver initialize satatement to the proper driver loading function.
